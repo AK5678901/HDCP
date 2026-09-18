@@ -1,0 +1,4 @@
+/build/
+/hdcp
+/bitslice-gen
+/*.o

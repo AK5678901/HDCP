@@ -1,0 +1,11 @@
+{
+  "cmake.useCMakePresets": "always",
+  "cmake.useVsDeveloperEnvironment": "always",
+  "terminal.integrated.profiles.windows": {
+    "PowerShell UTF-8": {
+      "path": "pwsh.exe",
+      "args": ["-NoExit", "-File", "${workspaceFolder}/.vscode/terminal-utf8.ps1"]
+    }
+  },
+  "terminal.integrated.defaultProfile.windows": "PowerShell UTF-8"
+}
